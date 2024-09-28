@@ -1,0 +1,16 @@
+*{
+  font-family:sans-serif;
+}
+.PLYOMETRICS{
+  background:#e1e1e1;
+  width:fit-content;
+  padding:20px;
+  border-radius:10px;
+}
+.PLYOMETRICS h2{
+  color:#0e0e0e;
+}
+.PLYOMETRICS h4{
+  margin-top:-20px;
+  color:#232323;
+}
